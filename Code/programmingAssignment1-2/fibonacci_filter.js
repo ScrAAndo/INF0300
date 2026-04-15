@@ -1,3 +1,5 @@
+//Antonio Brozna
+
 //1. Prompts the user for a number n (> 0).
 //2. Generates the first n numbers of the Fibonacci sequence.
 //3. Filters and prints only the odd Fibonacci numbers from that

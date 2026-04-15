@@ -1,3 +1,5 @@
+//Antonio Brozna
+
 // This program prompts the user to enter a positive number less than or equal to 100, and then checks each number from 2 up to that number to determine if it is prime or not. The results are printed to the console.
 var readline = require('readline-sync');
 
